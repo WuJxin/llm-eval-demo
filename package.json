@@ -1,0 +1,9 @@
+{
+  "name": "ai-evaluate-minimax",
+  "version": "1.0.0",
+  "description": "Use MiniMax API to run multi-model Q&A, evaluate answers, archive the results, and render score charts.",
+  "type": "module",
+  "scripts": {
+    "run": "node src/index.js"
+  }
+}
